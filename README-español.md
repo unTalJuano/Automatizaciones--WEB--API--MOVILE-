@@ -1,4 +1,4 @@
-# Título del Proyecto
+# Practica de automatizaciones
 
 En este repositorio puede encontrar un compilado de algunos de las proyectos realizados como practicas de automatización de pruebas
 
@@ -35,4 +35,4 @@ Tanto para la automatización de la API como la de dispositivos moviles, se pued
 ## Autores ✒️
 
 
-* **Juan David Ocampo**  - (https://github.com/villanuevand)
+* **Juan David Ocampo** 
